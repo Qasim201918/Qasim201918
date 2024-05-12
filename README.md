@@ -1,4 +1,11 @@
-### Hi there 👋
+<ul>
+  <li>👋 Hi, I’m Qasim , a Test Automation Engineer</li>
+  <li>🛠️ I am currently working on Selenium WebDriver(Python), Postman, Toad for Oracle, Pycharm, Intellij idea</li>
+  <li>🛠️ Project Management Tools: Jira, TFS, Azure DevOps</li>
+  <li>👀 Version Control (Git)</li>
+  <li>🌱 I’m currently learning new technologies and tools</li>
+  <li>📫 How to reach me ...email: qasimkhan201918@gmail.com</li>
+</ul>
 
 <!--
 **Qasim201918/Qasim201918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
