@@ -1,5 +1,5 @@
 <ul>
-  <li>👋 Hi, I’m Qasim , a Test Automation Engineer</li>
+  <li>👋 Hi, I’m Qasim , A Test Automation Engineer</li>
   <li>🛠️ I am currently working on Selenium WebDriver(Python), Postman, Toad for Oracle, Pycharm, Lighthouse Intellij idea, OWASP ZAP</li>
   <li>🛠️ Project Management Tools: Jira, TFS, Azure DevOps, CI/CD(Jenkins)</li>
   <li>👀 Version Control (Git)</li>
