@@ -4,7 +4,7 @@
   <li>🛠️ Project Management Tools: Jira, TFS, Azure DevOps, CI/CD(Jenkins)</li>
   <li>👀 Version Control (Git)</li>
   <li>🌱 I’m currently learning new technologies and tools</li>
-  <li>📫 How to reach me ...email: qasimkhan201918@gmail.com</li>
+  <li>📫 How to reach me ...email: qasimkhan201918@icloud.com</li>
 </ul>
 
 <!--
